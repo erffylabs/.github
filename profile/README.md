@@ -22,7 +22,11 @@
 </ul>
 
 <h4>📦 Quick Install</h4>
-<pre><code>deno add jsr:@erenitylabs/eventemitter</code></pre>
+<pre><code>deno add jsr:@erenitylabs/eventemitter
+npx jsr add @erenitylabs/eventemitter
+yarn dlx jsr add @erenitylabs/eventemitter
+pnpm dlx jsr add @erenitylabs/eventemitter
+bunx jsr add @erenitylabs/eventemitter</code></pre>
 
 <h3><a href="https://github.com/erenitylabs/quartz.db" target="_blank">QuartzDB</a> <img height="16" weight="16" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png"/> </h3>
 <p>A lightweight, user-friendly database wrapper.</p>
@@ -35,7 +39,11 @@
 </ul>
 
 <h4>📦 Quick Install</h4>
-<pre><code>deno add jsr:@erenitylabs/quartzdb</code></pre>
+<pre><code>deno add jsr:@erenitylabs/quartzdb
+npx jsr add @erenitylabs/quartzdb
+yarn dlx jsr add @erenitylabs/quartzdb
+pnpm dlx jsr add @erenitylabs/quartzdb
+bunx jsr add @erenitylabs/quartzdb</code></pre>
 
 ---
 
