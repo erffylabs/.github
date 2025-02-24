@@ -11,7 +11,9 @@
 
 <h2>🚀 Featured Projects</h2>
 
-<h3><a href="https://github.com/erenitylabs/eventemitter" target="_blank">EventEmitter</a> <img height="16" weight="16" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png"/> </h3>
+<h4>Currently there aren't available projects.</h4>
+
+<!-- <h3><a href="https://github.com/erenitylabs/eventemitter" target="_blank">EventEmitter</a> <img height="16" weight="16" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png"/> </h3>
 <p>A lightweight, high-performance event emitter</p>
 
 <h4>✨ Top Features</h4>
@@ -44,7 +46,7 @@ npx jsr add @erenitylabs/quartzdb
 yarn dlx jsr add @erenitylabs/quartzdb
 pnpm dlx jsr add @erenitylabs/quartzdb
 bunx jsr add @erenitylabs/quartzdb</code></pre>
-
+-->
 ---
 
 <h2>🌟 Why Erenity Labs?</h2>
