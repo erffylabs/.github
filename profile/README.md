@@ -11,7 +11,10 @@
 
 <h2>🚀 Featured Projects</h2>
 
-<h4>Currently there aren't available projects.</h4>
+<h3><a href="https://github.com/erenitylabs/sentinel" target="_blank">Sentinel</a> <img height="16" weight="16" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png"/> </h3>
+<p>Lightweight and modular Discord bot framework.</p>
+
+<h4>In development</h4>
 
 <!-- <h3><a href="https://github.com/erenitylabs/eventemitter" target="_blank">EventEmitter</a> <img height="16" weight="16" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png"/> </h3>
 <p>A lightweight, high-performance event emitter</p>
