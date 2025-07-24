@@ -1,4 +1,4 @@
-<h1 align="center">✨ Erenity Labs</h1>
+<h1 align="center">✨ Erffy Labs</h1>
 <p align="center">
   <strong>Free, independent software hub by <a href="https://github.com/erffy">@erffy</a></strong>
 </p>
@@ -39,7 +39,7 @@
 
 ---
 
-<h2>🌟 Why Erenity Labs?</h2>
+<h2>🌟 Why Erffy Labs?</h2>
 <ul>
   <li><strong>📚 Open Source:</strong> Every line of code is free and accessible.</li>
   <li><strong>🌱 Purpose-Driven:</strong> Built with care, curiosity, and a touch of rebellion.</li>
